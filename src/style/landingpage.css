@@ -1,0 +1,48 @@
+.myBG {
+    height: 100vh;
+    background: url("../assets/images/homepage.png");
+    background-size: cover;
+}
+
+.title1 {
+margin-top: 20%;
+font-family : Playfair Display;
+font-style : normal;
+font-size: 64px ;
+line-height: 80px;
+line-height: 94%;
+}
+
+.title2 {
+    font-family : Playfair Display;
+    font-style : normal;
+    font-size: 64px ;
+    line-height: 80px;
+    line-height: 94%;
+}
+
+.title3 {
+    margin-top: 20%;
+    font-family : Nunito;
+    font-style : normal;
+    font-size: 22px ;
+    line-height: 80px;
+    line-height: 94%;
+    margin-bottom: 10%;
+    }
+.buttonstyle {
+        margin-top: 10%;
+        font-family: nunito;
+}
+
+.populartxtstyle {
+    margin-top: 10px;
+    font-family : Playfair Display;
+    font-style : normal;
+    font-size: 36px ;
+    margin-bottom: 10px;
+}
+
+.popularimage {
+    height: auto;
+}
